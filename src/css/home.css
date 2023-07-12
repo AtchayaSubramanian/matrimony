@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .homepic{
+     width: 100%;
+     background-size: cover;
+     height: 100vh;
+     overflow: auto;
+     opacity: 0.5%;
+ }
+ /* .container{
+     position: relative;
+ } */
+ .home{
+    background-color: aqua;
+     background-image: url("../background.webp");
+ }
+ .text-block {
+     text-align: center;
+     /* color: white; */
+     padding: 18%;
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+ 
+     /* opacity: 0.5; */
+   }
+   .text1{
+     color: rgb(2, 1, 13);
+     padding-left: 5px;
+     padding-top: 5px;
+     font-size: 3rem;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }

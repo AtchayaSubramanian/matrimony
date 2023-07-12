@@ -1,0 +1,44 @@
+.Head
+{
+   text-align: center;
+   padding-top: 30px;
+   font-size:70px;
+   font-style: italic;
+}
+.mi
+{
+    padding-left: 400px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.we
+{
+    padding-left: 300px;
+    margin-top: 30px;
+}
+.mission
+{
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 300px;
+    margin-top: 30px;
+}
+.team
+{
+   padding-left: 600px;
+   margin-top: 30px;
+}
+.Founder
+{
+    margin-top: 10px;
+    padding-left: 600px;
+}
+.con
+{
+    padding-left: 350px;
+    margin-top: 30px;
+    font-size: 25px;
+    font-style: italic;
+    padding-right: 350px;
+}
